@@ -1,0 +1,32 @@
+.white {
+    color: rgb(255, 255, 255);
+}
+
+.lastname {
+    color: rgb(108, 199, 202);
+}
+
+.picture {
+    border-radius: 100%;
+    width: 240px;
+    height: 220px;
+}
+
+.background {
+    background-color: black;
+}
+
+.graybackground {
+    background-color: rgba(155, 152, 152, 0.808);
+}
+
+h4 {
+    background-color: rgb(108, 199, 202);
+}
+
+h3 {
+    margin: 15px 0px 5px 0px;
+    border-bottom: 5px solid rgb(108, 199, 202);
+    display: inline-block;
+    margin-bottom: 0.5em;
+}
